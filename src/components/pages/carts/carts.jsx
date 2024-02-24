@@ -1,6 +1,6 @@
+/* eslint-disable array-callback-return */
 import React, {useContext} from "react";
 import {PRODUCTS} from "../../../Product.jsx";
-import { Product } from "../shops/products.jsx";
 import { ShopContext } from "../../../context/shop-context.jsx";
 import { CartItem } from "./cart-item.jsx";
 import "./cart.css";
